@@ -1,5 +1,16 @@
-# How to use git by CLI
-This repository is to explain how to use git by cli.
+# CLI를 통한 git 사용하기
+# 목적 및 작성자
+
+## 문서 작성 목적
+
+> 3rd Party tool에 의존하지 않고, 자유롭게 CLI 를 통해서 git 을 사용하기 위함이다. 
+> 자유롭게 사용하시기 바랍니다.
+> 오탈자나 잘못된 내용 그리고 추가해야할 내용에 대해서는 [작성자](#작성자) 정보를 참고하여 연락주시면 감사하겠습니다. 
+
+##  작성자
+
+- KyungHwan Kim - Initial work
+  - u4rang@gmail.com
 
 ----
 
@@ -540,7 +551,7 @@ git 에서의 commit 은 Delta (차이점) 이 아니라 Snapshot (스냅사진)
 - 예를 들어, master 브랜치에서 git push를 하면 master 브랜치의 내용만 리모트 레포지토리의 master 브랜치로 전송되지, premium 브랜치의 내용이 전송되는 것은 아니다.
 - git push에 --all이라는 옵션을 주면 모든 브랜치의 내용을 전송 가능
 
-# 읽어보면 git에 대해 이해하기 좋은 사이트
+## 읽어보면 git에 대해 이해하기 좋은 사이트
 
 [ProGit](https://git-scm.com/book/ko/v2)
 
